@@ -7,7 +7,7 @@ namespace AirportBookingSystem.Models{
     {
         private const string FlightsFile = "flights.json";
 
-     
+
         public List<Flight> LoadFlights()
         {
             if (!File.Exists(FlightsFile))
