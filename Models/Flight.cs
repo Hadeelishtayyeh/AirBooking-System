@@ -1,4 +1,4 @@
-namespace AirportBookingMangmentSystem.Models{
+namespace AirportBookingSystem.Models{
 
 public class Flight{
 public string? FlightId { get; set; }
