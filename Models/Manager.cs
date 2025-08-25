@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
-namespace AirportBookingMangmentSystem.Models{
+namespace AirportBookingSystem.Models{
      public class Manager
     {
         private const string FlightsFile = "flights.json";
